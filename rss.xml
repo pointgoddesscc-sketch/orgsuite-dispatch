@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>OrgSuite Dispatch</title>
+    <link>https://orgsuite-dispatch.vercel.app/</link>
+    <description>Weekly workplace intelligence from OrgSuite. Original publication.</description>
+    <language>en-us</language>
+    <item>
+      <title>Vol. 001 — Finish What Ships</title>
+      <link>https://orgsuite-dispatch.vercel.app/</link>
+      <guid>https://orgsuite-dispatch.vercel.app/vol-001</guid>
+      <pubDate>Sun, 20 Sep 2026 22:00:00 +0000</pubDate>
+      <description>First hosted OrgSuite Dispatch. Finish the surface that ships. Disconnect third-party weekly lists from the workplace inbox.</description>
+    </item>
+  </channel>
+</rss>
